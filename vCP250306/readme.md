@@ -29,7 +29,7 @@ The main shaft is a 8 mm diameter rod with M5 nut grooves on both ends. it is co
 
 Then the upper is the vibration motor unit clampe to the main shaft by two M3 SHCS. 
 
-At last the top, there is an F695 bearing and M5 nut holding the main shaft which serves as the "hanger" and adjustment of the vertical positioning of main shaft so as the vibration unit inserted into the concrete bowl. 
+At last the top, there is an F625z bearing and M5 nut holding the main shaft which serves as the "hanger" and adjustment of the vertical positioning of main shaft so as the vibration unit inserted into the concrete bowl. 
 
 The vibration motor is driven by DC power and the voltage can be adjusted by a DCDC module. The voltage controls the rpm/frequency of the vibration unit. 
 
