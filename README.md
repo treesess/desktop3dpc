@@ -2,7 +2,7 @@
 
 desktop scale 3d printing concrete/mortar using a vibration unit in the toolhead to make concrete fluid down. 
 
-
+**check out the latest version of build [here](https://github.com/treesess/desktop3dpc/tree/main/vCP250306)**
 
 
 
@@ -12,7 +12,7 @@ desktop scale 3d printing concrete/mortar using a vibration unit in the toolhead
 1) put a vibration device just above the nozzle. not a stirrer but an actual vibrator. 
 2) heat bed on, like fdm
 
-in this way, you can easily print concreteto whatever height you want on a desktop. 
+in this way, you can easily print concrete to whatever height you want on a desktop. 
 
 no need of any additions (e.g., PFA, GGBS, silica fume, plasticizer, AC, balabala), just OPC and sand can work this through. 
 
@@ -20,7 +20,7 @@ no need of any additions (e.g., PFA, GGBS, silica fume, plasticizer, AC, balabal
 
 i used modified CR10s as the motion system, changed the toolhead, and printed about 300 mm wall in vase mode with about 20 mm thick of width. 
 
-you may see the flowrate unstable in the picture, that's because i just came up with the vibrator idea last night and was controlling the flow manually. surelly will do a better control of flow rate. 
+you may see the flow rate unstable in the picture, that's because i just came up with the vibrator idea last night and was controlling the flow manually. surely will do a better control of flow rate. 
 
 
 -----
@@ -40,6 +40,3 @@ note:
 1) for sand, you better seive it into 0.3 to 0.6 mm size. of course if you use a larger nozzle, you can even do coarse aggregate.
 2) heatbed greatly reduces the first setting time of concrete. but it might affect the strength of concrete. however, it's desktop, you want the shape but not the strength, don't you?
 
------
-
-just write down the overall idea here. the actual toolhead will be made soon. well maybe you first. once you give up the screw rod to push the concrete down, everything is easy. 
