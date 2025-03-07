@@ -2,6 +2,8 @@ this is the first design of vCP. based on the motion system of CR10s, changed th
 
 **all CAD STL are open-sourced (GPL-3.0 license) for download. Welcome to build yours and let me know!**
 
+All plastic parts were designed for easy and strong FDM printing without adding additional support. Let me know if you have doubts about which direction to put on heatbed. 
+
 ![image](https://github.com/user-attachments/assets/bacb2a73-b690-4403-90f2-e00ddbaf349d)
 
 
