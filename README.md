@@ -1,4 +1,4 @@
-# desktop3dpc - vCP (vibration concrete printing 振子混凝土打印)
+# desktop3dpc - vCP (vibration concrete printing 振子砼列印)
 
 desktop scale 3d printing concrete/mortar using a vibration unit in the toolhead to make concrete fluid down. 
 
