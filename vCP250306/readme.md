@@ -1,5 +1,7 @@
 this is the first design of vCP. based on the motion system of CR10s, changed the x carriage and toolhead and succeeded in stable flow rate mortar printing. 
 
+**all CAD STL are open-sourced (GPL-3.0 license) for download. Welcome to build yours and let me know!**
+
 ![image](https://github.com/user-attachments/assets/bacb2a73-b690-4403-90f2-e00ddbaf349d)
 
 
