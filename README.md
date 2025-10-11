@@ -4,7 +4,7 @@ desktop scale 3d printing concrete/mortar using a vibration unit in the toolhead
 
 **check out the latest version of build [here](https://github.com/treesess/desktop3dpc/tree/main/vCP250306)**
 
-251007 update: SSR applied as buffer to isolate the vibration from the toolhead to the printer frame. Metal nozzle adopted. Vibration motors directly hits on metal nozzle. 4 mm nozzle printed cement paste with stable flowrate. 
+251007 update: shore 10 solid silicon rubber (SSR) applied as buffer to isolate the vibration from the toolhead to the printer frame. Metal nozzle adopted. Vibration motors directly hits on metal nozzle. 4 mm nozzle printed cement paste with stable flowrate. 
 
 <img width="543" height="566" alt="image" src="https://github.com/user-attachments/assets/6eedbb54-41da-4814-803d-f8970bee166d" />
 
