@@ -8,10 +8,14 @@ desktop scale 3d printing concrete/mortar using a vibration unit in the toolhead
 
 <img width="543" height="566" alt="image" src="https://github.com/user-attachments/assets/6eedbb54-41da-4814-803d-f8970bee166d" />
 
+above is the latest print. 
 
 
 
 --------
+
+below is the first print:
+
 
 ![image](https://github.com/user-attachments/assets/7d29cb28-643e-41ec-9e74-a3d78a74e0d9)
 
