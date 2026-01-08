@@ -2,7 +2,8 @@ this is a vCP-e version where e for extruder axis in use. That is, FDM CAM slice
 
 <img width="365" height="377" alt="image" src="https://github.com/user-attachments/assets/784c701c-9509-4f92-b6b9-77299dd2b2ac" />
 
-yes it's already this good without detailed tuning. 
+yes it's already this good without detailed tuning. check out how it moves: https://youtu.be/I5zWxPGP2qw 
+
 
 the greatest benefit of using E axis in FDM slicer is that, you can do perfect *TRAVEL*, i.e., you can move your toolhead without leaking a single bit of cemential mixture! 
 
