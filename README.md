@@ -2,7 +2,13 @@
 
 desktop scale 3d printing concrete/mortar using a vibration unit in the toolhead to make concrete fluid down. 
 
-**check out the latest version of build [here](https://github.com/treesess/desktop3dpc/tree/main/vCP250306)**
+**check out the latest version of build [here](https://github.com/treesess/desktop3dpc/tree/main/vCP260102)**
+
+260108 update: though the MCU (skr pico) reported error from time to time (possibily due to the intentional step loss of motor), a neat enough one has been printed: 
+
+<img width="365" height="377" alt="image" src="https://github.com/user-attachments/assets/784c701c-9509-4f92-b6b9-77299dd2b2ac" />
+
+
 
 251007 update: shore 10 solid silicon rubber (SSR) applied as buffer to isolate the vibration from the toolhead to the printer frame. Metal nozzle adopted. Vibration motors directly hits on metal nozzle. 4 mm nozzle printed cement paste with stable flowrate. 
 
