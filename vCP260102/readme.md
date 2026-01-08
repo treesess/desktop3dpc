@@ -48,7 +48,14 @@ printing recommendations:
 
 - Only the bowl part needs a bit support (sorry for that, i don't want to but that's quicker. and i m not sure if the ears of the bowl can be cut off. better have them to simplify the installation). All other parts can be printed without support. You can use PLA to print the molds for LSR if stringing is a big issue for you. 
 
-- maximize the wall/perimeter counts for all parts (except the "front" part) since they are going to suffer from heavy fatigue loading. i ve made them skinny as i think good enough so even if you print all parts in 100% plastic inside, it's not much heavy. 
+- maximize the wall/perimeter counts for all parts (except the "front" part) since they are going to suffer from heavy fatigue loading. i ve made them skinny as i think good enough so even if you print all parts in 100% plastic inside, it's not much heavy.
+
+<img width="493" height="430" alt="image" src="https://github.com/user-attachments/assets/f048a972-2626-446a-9f8b-8e21460f6eb3" />
+
+for the "bowl" part, only a bit of support have been painted in the .3mf fyr. 
+
+
+
 
 for casting LSR, please screw your long M3 SHCS into the molds first, similar to the below photo (sorry that the below photo is showing a previous version but i m sure you can get what i mean): 
 
