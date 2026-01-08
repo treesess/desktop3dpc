@@ -6,6 +6,8 @@ yes it's already this good without detailed tuning.
 
 the greatest benefit of using E axis in FDM slicer is that, you can do perfect *TRAVEL*, i.e., you can move your toolhead without leaking a single bit of cemential mixture! 
 
+check out how it moves: https://youtu.be/I5zWxPGP2qw 
+
 recommended Klipper configuration for extruder:
 
 ```
