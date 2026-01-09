@@ -66,7 +66,7 @@ for casting LSR, please screw your long M3 SHCS into the molds first, similar to
 
 ------------
 
-still testing stuff. but the news is, this version of toolhead is still my ideal plan. new toolhead is on the way. 
+still testing stuff. but the news is, this version of toolhead is still not my ideal plan. new toolhead is on the way. 
 
 
 
