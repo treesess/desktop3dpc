@@ -5,7 +5,7 @@ this is a vCP-e version where e for extruder axis in use. That is, FDM CAM slice
 yes it's already this good without detailed tuning. check out how it moves: https://youtu.be/I5zWxPGP2qw 
 
 
-the greatest benefit of using E axis in FDM slicer is that, you can do perfect *TRAVEL*, i.e., you can move your toolhead without leaking a single bit of cemential mixture! 
+the greatest benefit of using E axis in FDM slicer is that, you can do perfect *TRAVEL*, i.e., you can move your toolhead without leaking a single bit of cementitious mixture! 
 
 
 recommended Klipper configuration for extruder:
