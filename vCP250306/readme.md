@@ -1,3 +1,11 @@
+
+this is an OLD VERSION of toolhead, please go to https://github.com/treesess/desktop3dpc/tree/main/vCP260102 to see the current version. 
+
+-------------------
+
+
+
+
 this is the first design of vCP. based on the motion system of CR10s, changed the x carriage and toolhead and succeeded in stable flow rate mortar printing. 
 
 **all CAD STL are open-sourced (GPL-3.0 license) for download. Welcome to build yours and let me know!**
