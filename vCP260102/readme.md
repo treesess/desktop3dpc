@@ -63,6 +63,7 @@ for casting LSR, please screw your long M3 SHCS into the molds first, similar to
 
 <img width="473" height="312" alt="image" src="https://github.com/user-attachments/assets/6f6e5994-469d-4025-b398-d8166ed2b397" />
 
+more info about using SSR for vibration buffer can be found [here](https://github.com/treesess/STEAMRELAY/tree/main/showcase/251003%20vibration%20absorbing%20design%20using%20SSR)
 
 ------------
 
