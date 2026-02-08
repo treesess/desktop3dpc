@@ -6,7 +6,7 @@ desktop scale 3d printing of cement-based/non-Newtonian materials (e.g., cement 
 
 
 -------
-260208 update: in case you are interested in how it looks after curing, the photos fyi. 
+260208 update: in case you are interested in how it looks after curing, the photos fyi. smooth skin of it, makes us can't stop rubbing it. 
 
 <img width="691" height="662" alt="image" src="https://github.com/user-attachments/assets/725fa3eb-35c0-4228-ab6f-539d8bb7e512" />
 
