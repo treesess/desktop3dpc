@@ -34,7 +34,7 @@ BOM of this toolhead:
 | name    | qty. |    descriptions  |
 | -------- | ------- | ------- |
 | stainless nozzle   |1 piece    |dimensions pls see the f3d CAD file thx|
-| steel rod                 | 1 piece     |diameter of 6 mm, length of at least 40 mm               |
+| steel rod                 | 1 piece     |diameter of 6 mm, length of at least 40 mm (hold it, you may need longer for the next version...)              |
 | M3x80 SHCS                  |   2 pcs  | for the upper part of mounting|
 | M3x50 SHCS               |    2 pcs  | for the lower part of mounting |
 | M3x8 SHCS          | 7 pcs   | |
