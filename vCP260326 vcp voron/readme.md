@@ -5,3 +5,7 @@ pls see the f3d CAD file for details.
 if you wanna build one, please let me know and i will sort things up and upload them for you. 
 
 <img width="443" height="601" alt="image" src="https://github.com/user-attachments/assets/c98bf18c-269e-4254-a277-c04955016414" />
+
+
+The motion system is VORON2.4. X carriage is in the f3d as well. For the modification of bed into a seperate/independent one (to isolate vibration from the frame to the bed), i used a piece of concrete and 4 rubber footpads, not a neat design, may upload later. 
+
