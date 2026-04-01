@@ -40,7 +40,7 @@ BOM of this toolhead:
 | M3x8 SHCS          | 7 pcs   | |
 | Heat set inserts (M3 Threaded Insert )        | 3 pcs   | The VORON "standard" ones (M3x5mmx4mm)|
 | LSR (liquid silicone rubber)         | 7 pcs   |  20  degree or lower. 50 grams (A+B) is enough for one cast of the rubber buffer parts|
-| stepper motor    |1 piecs |  4240 or longer      | 
+| stepper motor    |1 piece |  4240 or longer      | 
 
 <img width="576" height="478" alt="image" src="https://github.com/user-attachments/assets/69eb4f81-3166-426b-bef9-6ea85bb78186" />
 
