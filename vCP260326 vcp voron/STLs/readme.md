@@ -1,0 +1,3 @@
+due to my messy management of CAD file and slow computer, there is no such one CAD file with all parts. so i'd upload the STLs first. 
+
+allow me to spend time sorting out the CAD...
