@@ -2,10 +2,15 @@
 
 desktop scale 3d printing of cement-based/non-Newtonian materials (e.g., cement paste, mortar, concrete) using a vibration unit in the toolhead to make the fluid down from the nozzle. 
 
-**check out the latest version of build [here](https://github.com/treesess/desktop3dpc/tree/main/vCP260326%20vcp%20voron)**
+**check out the latest version of build [here](https://github.com/treesess/desktop3dpc/tree/main/vCP260419%20vcp%20voron%20r9.3)**
 
 
 -------
+260423 update: finally got the perfect VORON cube (i mean, the mechanism reached the "perfect" level i expected for months). will still keep exploring. 
+
+check out the video clip on [utube](https://youtu.be/D2BQ4VoVuh0)
+
+
 260329 update: after printing ten plus VORON cubes, i tried a benchy. not that the VORON cubes are not good to show, but i want a perfect VORON cube next time i post it. 
 
 <img width="939" height="707" alt="image" src="https://github.com/user-attachments/assets/14c5c5a6-a88e-44a8-b9bb-3198bb49c67c" />
