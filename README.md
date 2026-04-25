@@ -10,6 +10,8 @@ desktop scale 3d printing of cement-based/non-Newtonian materials (e.g., cement 
 
 check out the video clip on [utube](https://youtu.be/D2BQ4VoVuh0)
 
+<img width="817" height="608" alt="image" src="https://github.com/user-attachments/assets/a4936f3b-2fd9-48cf-812c-e91f18a01945" />
+
 
 260329 update: after printing ten plus VORON cubes, i tried a benchy. not that the VORON cubes are not good to show, but i want a perfect VORON cube next time i post it. 
 
