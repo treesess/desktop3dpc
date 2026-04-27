@@ -2,24 +2,32 @@
 
 desktop scale 3d printing of cement-based/non-Newtonian materials (e.g., cement paste, mortar, concrete) using a vibration unit in the toolhead to make the fluid down from the nozzle. 
 
-**check out the latest version of build [here](https://github.com/treesess/desktop3dpc/tree/main/vCP260419%20vcp%20voron%20r9.3)**
+## **check out the latest version of build: [here](https://github.com/treesess/desktop3dpc/tree/main/vCP260419%20vcp%20voron%20r9.3)**
 
+
+
+This page is basically a journal, updating the latest works. 
 
 -------
-260423 update: finally got the perfect VORON cube (i mean, the mechanism reached the "perfect" level i expected for months). will still keep exploring. 
+
+**260423 update:** finally got the perfect VORON cube (i mean, the mechanism reached the "perfect" level i expected for months). will still keep exploring. 
 
 check out the video clip on [utube](https://youtu.be/D2BQ4VoVuh0)
 
 <img width="817" height="608" alt="image" src="https://github.com/user-attachments/assets/a4936f3b-2fd9-48cf-812c-e91f18a01945" />
 
 
-260329 update: after printing ten plus VORON cubes, i tried a benchy. not that the VORON cubes are not good to show, but i want a perfect VORON cube next time i post it. 
+-------
+
+**260329 update:** after printing ten plus VORON cubes, i tried a benchy. not that the VORON cubes are not good to show, but i want a perfect VORON cube next time i post it. 
 
 <img width="939" height="707" alt="image" src="https://github.com/user-attachments/assets/14c5c5a6-a88e-44a8-b9bb-3198bb49c67c" />
 
 
 
-260208 update: in case you are interested in how it looks after curing, the photos fyi. smooth skin of it, makes us can't stop rubbing it. 
+-------
+
+**260208 update:** in case you are interested in how it looks after curing, the photos fyi. smooth skin of it, makes us can't stop rubbing it. 
 
 <img width="691" height="662" alt="image" src="https://github.com/user-attachments/assets/725fa3eb-35c0-4228-ab6f-539d8bb7e512" />
 
@@ -38,20 +46,27 @@ also of also, the MCU error (actually tmc2209 drive error) has been fixed by upd
 
 i think i also need to explain why there was stepper drive error. it's some kinda "reverse electromotive force", caused by the obvious - we force the stepper to lose steps all the way, so when the rotor kept bouncing backwards again the drive, thus the "reverse electromotive force". sorry that i can only explain this in a level of "making sense" because i m not a specialist on motors... 
 
+
+
 -------
-260108 update: though the MCU (skr pico) reported error from time to time (possibly due to the intentional step loss of motor), a neat enough one has been printed: 
+
+**260108 update:** though the MCU (skr pico) reported error from time to time (possibly due to the intentional step loss of motor), a neat enough one has been printed: 
 
 <img width="365" height="377" alt="image" src="https://github.com/user-attachments/assets/784c701c-9509-4f92-b6b9-77299dd2b2ac" />
 
 above is the latest print. 
 
+
+
+
 ------
 
-251007 update: shore 10 solid silicon rubber (SSR) applied as a buffer to isolate the vibration from the toolhead to the printer frame. Metal nozzle adopted. Vibration motors directly hits on metal nozzle. 4 mm nozzle printed cement paste with a stable flowrate. 
+**251007 update:** shore 10 solid silicon rubber (SSR) applied as a buffer to isolate the vibration from the toolhead to the printer frame. Metal nozzle adopted. Vibration motors directly hits on metal nozzle. 4 mm nozzle printed cement paste with a stable flowrate. 
 
 <img width="543" height="566" alt="image" src="https://github.com/user-attachments/assets/6eedbb54-41da-4814-803d-f8970bee166d" />
 
 (this was printed by a subversion toolhead, which was not uploaded, but don't worry the current version is much better.)
+
 
 
 --------
