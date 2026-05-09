@@ -11,7 +11,7 @@ This page is basically a journal, updating the latest works.
 
 -------
 
-**2600508 update:** have been testing 1.5 mm nozzle using my ocd for days. it's bloody hard and i came along with concepts that i didn't know before. some kind of pressure build-up when using feed screw which caused blockage/choke-up. planning to redo the screw barrel to 20 mm diameter and have more tolerance for the backflow. 
+**260508 update:** have been testing 1.5 mm nozzle using my ocd for days. it's bloody hard and i came along with concepts that i didn't know before. some kind of pressure build-up when using feed screw which caused blockage/choke-up. planning to redo the screw barrel to 20 mm diameter and have more tolerance for the backflow. 
 
 <img width="916" height="677" alt="image" src="https://github.com/user-attachments/assets/6bf8e011-ad40-4f10-8483-01768e26a254" />
 
