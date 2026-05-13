@@ -9,6 +9,18 @@ desktop scale 3d printing of cement-based/non-Newtonian materials (e.g., cement 
 This page is basically a journal, updating the latest works. 
 
 
+
+
+-------
+
+**260513 update:** layer lines. what layer lines?
+
+<img width="881" height="667" alt="image" src="https://github.com/user-attachments/assets/431ea682-cc75-4a54-8748-fe6d58d18409" />
+
+mortar this is. added 40-70 sand. 
+
+
+
 -------
 
 **260508 update:** have been testing 1.5 mm nozzle using my ocd for days. it's bloody hard and i came along with concepts that i didn't know before. some kind of pressure build-up when using feed screw which caused blockage/choke-up. planning to redo the screw barrel to 20 mm diameter and have more tolerance for the backflow. 
