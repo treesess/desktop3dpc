@@ -46,7 +46,6 @@ mix design refers to the composite of your mix. i will try list the items i know
 | item     | purpose |
 | -------- |  ------- |
 |water| to hold everything together, the pure the better|
-
 |OPC (Ordinary Portland Cement) 52.5 N  |major blinder, react with water to build up strength (hydration reaction) |
 |PFA (fly ash)                          |  secondary blinder, helps with crack, makes the slurry less bleeding etc. |
 |GGBS                         |  secondary blinder, get strength somehow faster comparing to adding PFA |
