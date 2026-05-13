@@ -32,7 +32,7 @@ cementitious printing is centered on **water**:
 
 though heat and water are two different things, however, the logic is the same: *we want it to be liquified to extrude, and solidified to fix the shape.* FDM does it via heat, cementitious printing cuts it via water. 
 
-by applying heat to cementitious printing, there might be concerns about strength compromises. yes, if you heat up the slurry too much, bad things happen (cracks, hollow inside with thin crust, lower final strength etc.) imo these can be handled by adding UEA, SF etc.
+by applying heat to cementitious printing, there might be concerns about strength compromises. yes, if you heat up the slurry too much, bad things happen (cracks, hollow inside with thin crust, lower final strength etc.) imo these can be handled by adding UEA, SF, etc.
 
 surely you don't want to cook the slurry. the strength matters are actually demand matters. what is the print for? answer this then consider heatup or not. heat is to make the print much faster, but not a must (especially when you don't like it (but i do like it xd)).
 
@@ -41,7 +41,7 @@ surely you don't want to cook the slurry. the strength matters are actually dema
 
 ## 1.2 mix design
 
-mix design refers to the composite of your mix. i will try list the items i know (correct me if wrong, i m just an amature). 
+mix design refers to the composite of your mix. i will try list the items i know (correct me if wrong, i m just an amateur). 
 
 | item     | purpose |
 | -------- |  ------- |
@@ -49,21 +49,23 @@ mix design refers to the composite of your mix. i will try list the items i know
 |OPC (Ordinary Portland Cement) 52.5 N  |major blinder, react with water to build up strength (hydration reaction) |
 |PFA (fly ash)                          |  secondary blinder, helps with crack, makes the slurry less bleeding etc. |
 |GGBS                         |  secondary blinder, get strength somehow faster comparing to adding PFA |
-|sand |fine aggregate, imo make it easier to print|
-|stone |coarse aggregate, often larger than 5 mm diameter， thus not likely to use on desktop level, unless you are printing something rough with nozzle diameter larger than 10 mm |
-|SP, superplastisizer, plastisizer (liquid)| make the slurry better flow with less water   |
-|retarder | similar to SP, but slows down the chemical reaction to buy your longer printing time|
-|SF, silica fume|fine particles help to get compact print|
-|quartz power 325/600 mesh| filler, makes the print compact|
-|UEA U-type expansive agent| avoiding crack, very useful|
-|pigment|iron black, iron red, iron something, were the ones i tried. good. |
+|sand                     |fine aggregate, imo make it easier to print|
+|stone                 |coarse aggregate, often larger than 5 mm diameter， thus not likely to use on desktop level, unless you are printing something rough with nozzle diameter larger than 10 mm |
+|SP (superplastisizer) or plastisizer (liquid)          | make the slurry better flow with less water   |
+|retarder                       | similar to SP, but slows down the chemical reaction to buy your longer printing time|
+|SF (silica fume)                  |    fine particles help to get compact print|
+|quartz power 325/600 mesh        | filler, makes the print compact|
+|UEA U-type expansive agent      | avoiding crack, very useful|
+|iron black, iron red, iron something                      |pigment. may need more water if you add pigment |
 |...|...|
 
 ## 1.3 how to start first mix desgin
 
-if you are not familiar with cementitious, start with an easy one using only OPC, water, and fine sand (40-70) is totally okay. recommend w/c = 0.35 to 0.4, cement to sand 1:0.5 for starter. weight up mass but not volume. 
+if you are not familiar with cementitious, start with an easy one using only OPC, water, and fine sand (40-70) is totally okay even for 1.5 mm diameter nozzle. recommend w/c = 0.4~0.5, cement to sand 1:0.5 for starter. if you find it hard to mix up (too viscose), try adding a bit more water is fine. weight up mass but not volume. 
 
-if you can handle printing it, then go considering adding UEA, SF, and retarder to get better/consistent print quality. 
+if no retarder or PFA added, you have about 1 hour to print. the longer you wait, the harder the mixture is. if you try to add more water after 1 hour to make it printable, the final strength is likely to be compromised somehow, but you can do this for the first several prints since you will need some time to feel and understand it. try and error with more or less water is a good exercise to grasp it. 
+
+if you can handle printing the simple formula, then go considering adding UEA, SF, and retarder to get better/consistent print quality. 
 
 if you are an expert, don't take anything i say seriously and correct me if anything is wrong. Appreciate it. 
 
@@ -76,13 +78,13 @@ dry mix first, wet mix next.
 - dry mix means get all the solid particles measured by mass correctly in a container, then gently, gently, gently mix them up. the colors of different ingredients are likely to be different, so if the final color is uniform, your mix should be fine. do more mixing if unsure. take your time.
 - wet mix means adding water to the well-mixed dry mixture from the previous step. prepare your clean/pure water with SP or retarder before adding to the mixture. you may use a syringe/pipet to add the exact mass of water (and other liquid additives) as designed. still, gently, gently, gently add water into the mixture. take your time. start the wet mix slowly. after you see no dry particles, you may mix it faster.
 
-if you add SP or retarder, you may also need to mix for a longer time. 
+if you add SP or retarder, you may also need to mix for a longer time. by adding retarder, you may use less water and have very long printable window (like 2~3 hours, i tried 5 hours tops, but that was bad). for large prints, i would prepare the dry mix in separate covered containers in the first place, then only add water for wet mix when needed during printing. try not to wet mix over 400 grams anytime. for me i wet mix 100 to 200 grams per batch. 
 
 these are the basics to start with. i think you can start your first mix safely with these recommendations.
 
-for more details, please find tutorials or your expert friends. 
+for more details, please find tutorials or your expert friends. welcome to email me any questions. 
 
-one further tip here: if you use sand, note that sand absorbs water and releases the air inside it. therefore you need to vibrate it before your actual printing. i just put the mixture into the toolhead hopper and start extruding/vibrating, then catch the slurry from the nozzle back to get rid of the air bubbles. so is the coarse aggregate. 
+one further tip here: if you use sand, note that sand absorbs water and releases the air inside it. therefore, you need to vibrate it before your actual printing. i just put the mixture into the toolhead hopper and start extruding/vibrating, then catch the slurry from the nozzle back to get rid of the air bubbles. so is the coarse aggregate. 
 
 ---------------------
 
