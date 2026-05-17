@@ -13,6 +13,20 @@ This page is basically a journal, updating the latest works.
 
 -------
 
+**260517 update:** vcp voron r10.1 is being tested. so far so good. use 20.5 mm barrel and a feed screw having a large gap with the barrel. 
+
+this means:
+
+a) less assembly precision needed 
+
+b) pressure buildup inside the barrel will be mostly turned into backflow, which means better mixed slurry, and
+
+c) the problem of jam due to pressure buildup will not happen again. 
+
+<img width="318" height="411" alt="image" src="https://github.com/user-attachments/assets/6a58d2a4-d6f3-4c5b-a018-53097eb0a32f" />
+
+-------
+
 **260513 update:** layer lines. what layer lines?
 
 <img width="881" height="667" alt="image" src="https://github.com/user-attachments/assets/431ea682-cc75-4a54-8748-fe6d58d18409" />
