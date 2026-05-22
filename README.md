@@ -9,6 +9,18 @@ desktop scale 3d printing of cement-based/non-Newtonian materials (e.g., cement 
 This page is basically a journal, updating the latest works. 
 
 
+-------
+
+**260522 update:** spent 4 hr 42 mins printed this giant thin wall vase. not perfect, but learnt sth more and confirmed that the water content in the print body determines it's being "wet print" or "dry print". Also, the chamber humidity greatly influences the water content in the print body (yea you already guessed that). 
+
+starting do the enclosure for this printer with a humidity control plan (no way, i do know humidity control isn't easy. hope the accuracy of humidity control for vcp isn't that harsh).
+
+<img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/c2c0d0e9-7cbf-4d81-8319-3ddc00b01bde" />
+
+(left: eSUN PLA+ fire engine red; right: cement paste; both: printed by VORON2.4)
+
+Model credit: A *slightly* Overengineered Olpe Vase by Nat on printables: https://www.printables.com/model/290951-a-slightly-overengineered-olpe-vase-print-in-vase
+
 
 
 -------
