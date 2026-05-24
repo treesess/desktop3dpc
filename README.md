@@ -11,7 +11,7 @@ This page is basically a journal, updating the latest works.
 
 -------
 
-**260522 update:** spent 4 hr 42 mins printed this giant thin wall vase. not perfect, but learnt sth more and confirmed that the water content in the print body determines it's being "wet print" or "dry print". Also, the chamber humidity greatly influences the water content in the print body (yea you already guessed that). 
+**260522 update:** spent 4 hr 42 mins printed this giant thin wall vase. not perfect, but learnt sth more and confirmed that the water content in the print body determines it's being "wet print" or "dry print". Also, the chamber humidity greatly influences the water content in the print body (yea you already guessed that). related Reddit post: https://www.reddit.com/r/3Dprinting/comments/1tkmnuv/desktop_cementitious_print_by_vibration_vcp_voron
 
 starting do the enclosure for this printer with a humidity control plan (no way, i do know humidity control isn't easy. hope the accuracy of humidity control for vcp isn't that harsh).
 
