@@ -10,6 +10,28 @@ This page is basically a journal, updating the latest works.
 
 
 -------
+**260611 update:** 
+
+vcp voron r10 is on hold while r11 is under heavy tests. 
+
+- r11 is much simpler to make with the hopper, barrel and nozzle printed in one integrated part.
+- r11 is easy to assemble with less metal parts but no hotend.
+- r11 is very friendly to the starters. that's why i decided to finish up r11 first. 
+
+<img width="752" height="421" alt="image" src="https://github.com/user-attachments/assets/1fdff37c-ba28-49bb-abf2-c905970c0426" />
+
+full video: https://youtu.be/ELNMFBjC2Hw
+
+in the video all was 140% 3dbenchy printing chips. failures were mostly because of mix matter, or feed screw caused pressure builup (so i started to think it's better to switch the feed screw to stirrer only). and simply the difficulties of printing 3dbenchy. 
+
+i have to say benchy is very hard to print. especially when some of the layers have only a few seconds of layer time. 
+
+is this project/toolhead useless since it cannot even print a nice benchy? well, can clay printers do the benchy? lol. thus, i believe the slurry print of this project has achieved much more than expected. you will love vcp voron r11. 
+
+
+-------------------------------
+
+
 
 **260522 update:** spent 4 hr 42 mins printed this giant thin wall vase. not perfect, but learnt sth more and confirmed that the water content in the print body determines it's being "wet print" or "dry print". Also, the chamber humidity greatly influences the water content in the print body (yea you already guessed that). related Reddit post: https://www.reddit.com/r/3Dprinting/comments/1tkmnuv/desktop_cementitious_print_by_vibration_vcp_voron
 
