@@ -1,4 +1,4 @@
-# desktop3dpc - vCP (vibration cementitious printing)
+# desktop3dpc - vcp (vibration cementitious printing)
 
 desktop scale 3d printing of cement-based/non-Newtonian materials (e.g., cement paste, mortar, concrete) using a vibration unit in the toolhead to make the fluid down from the nozzle. 
 
