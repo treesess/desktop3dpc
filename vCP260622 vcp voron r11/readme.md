@@ -8,12 +8,72 @@ if anything doesn't seem right, my apologies. please let me know. Thanks!
 
 -----------------------------------------
 
+# 1 toolhead, vcp voron, r11
 
-# 1 hopper-nozzle body
+just a second for the naming of vcp voron: vcp is short for vibration cementitious print, vcp voron is like E3D Revo Voron, means vcp *for* VORON since it's based on VORON2.4 motion system. previously there were vcp on a CR10 but that's not reliable since the bed of i3 motion system is not good for the fresh slurry print to keep its shape. so basically vcp is just for VORON (or delta, but still DORON Velta would be nice). 
+
+## 1.1 toolhead intro
+
+i hope this intro shows you how this toolhead works. parts were put into folders.
+
+### 1.1.1 x carriage
+
+based on the x extrusion and MGN12 linear rail of VORON2.4r2.
+
+<img width="702" height="413" alt="image" src="https://github.com/user-attachments/assets/adbaefc0-a400-445d-b39e-a6edb0ade6e5" />
+
+### 1.1.2 positioner
+
+to make the major functional part in position, as well as connect to PG13.5 umbilical cable mount. 
+
+<img width="650" height="421" alt="image" src="https://github.com/user-attachments/assets/d9629da9-85c2-40a5-a7b2-7f225727b061" />
+
+### 1.1.3 integrated hopper-nozzle
+
+cementitious slurry goes in from the top and comes out from the bottom. 
+
+<img width="687" height="419" alt="image" src="https://github.com/user-attachments/assets/8535bc72-6fc8-41e7-8e8b-8556f33aa9ba" />
+
+### 1.1.4 hypocenter
+
+this group generates pulse vibration by forcing step loss of the stepper. no worry about the counter-EMF (counter-electromotive force), the 608 bearing limits it and i tested it.
+
+<img width="670" height="417" alt="image" src="https://github.com/user-attachments/assets/4f3eb2af-9e1d-49e4-9fd2-d82422cb5160" />
+
+the hypocenter has been working very stably through many versions in the prototyping. the hitter is an M3x50 screw with many shims to thicken it a bit.
+
+
+### 1.1.5 (optional) upper drive
+
+actually became optional. the major function of this part is to keep stirring the slurry so that it won't settle in the flow path. you can do the stir-up manually without this part. 
+
+<img width="670" height="424" alt="image" src="https://github.com/user-attachments/assets/3f2a2ae1-4033-484f-999d-6360ec2d398c" />
+
+for nozzle diameter smaller than 1.5 mm, it's NOT recommended to install this part (and yes stir up the slurry manually would be an better option, i will explain why later (maybe...)).
+
+
+### 1.1.6 (optional) LED light bar
+
+have a better view. 
+
+<img width="661" height="419" alt="image" src="https://github.com/user-attachments/assets/4ad3329b-1d8c-4293-b19b-7e5553b17ea9" />
+
+### 1.1.7 (optional) resin coating jig stand
+
+if you want to finish up the surface with epoxy resin, you may use this jig. 
+
+<img width="560" height="421" alt="image" src="https://github.com/user-attachments/assets/4498ea54-d755-4715-acec-c7a8d4e7a923" />
+
+
+
+
+
+
+# 2 hopper-nozzle body
 
 slurry feed hopper with integrated nozzle printed in one part, brings you a continuous and seamless flow path with smoothness. 
 
-### 1.1 FDM print of hopper-nozzle body
+### 2.1 FDM print of hopper-nozzle body
 
 recommend ASA or at least ABS print of the **hopper-nozzle body** because cementitious material is alkaline (pH 12-13 for fresh slurry) therefore PETG or PLA won't survive too long. 
 
@@ -26,7 +86,7 @@ after print out, directly screw in one M3x20 SHCS (socket head cap screw) near t
 (do not over-fasten this screw, it's plastic anyway. over-fastening may cause interlayer cracks in the print part)
 
 
-### 1.2 (IMPORTANT) internal flow path finishing procedure
+### 2.2 (IMPORTANT) internal flow path finishing procedure
 
 the flow path needs to be smoothed by drill bits, 60° chamfer drill bit, files. the roughness of the flow path will cause flow rate inconsistency and/or material buildup and/or clog. 
 
@@ -61,7 +121,7 @@ a light torch is recommended if you wanna have a look of the flow path:
 
 
 
-#### 1.2.1 section one - barrel
+#### 2.2.1 section one - barrel
 
 you can consider using a 20.5 mm diameter drill bit, but personally i only use the 20.5 mm 60° chamfer drill bit. 
 
@@ -89,7 +149,7 @@ don't do it to the throat in one go. drill in 10 or 20 mm and retreat once. repe
 
 
 
-#### 1.2.2 section two - throat
+#### 2.2.2 section two - throat
 
 these three are for the throat:
 
@@ -112,7 +172,7 @@ for me, i use the round file as a probe to grope
 there should be NO STAIR(S) on any transitional part of the flow path. any stairs are meant to make some material buildup during slurry printing. 
 
 
-#### 1.2.3 section three - nozzle
+#### 2.2.3 section three - nozzle
 
 slowly, drill in your preferred diameter drill bit from the other end like this: 
 
@@ -123,7 +183,7 @@ again, it's better to advance 2 mm and retreat once. repeat till you get it thro
 
 
 
-#### 1.2.4 repeat section two and section three multiple times
+#### 2.2.4 repeat section two and section three multiple times
 
 please repeat section two and section three multiple times and end it up with section two as a finishup. i don't know how to explain this. hope i m scientific enough. 
 
@@ -138,7 +198,7 @@ test it with water. water goes in from the hopper end should be able to come out
 
 
 
-### 1.3 outer perimeter of nozzle
+### 2.3 outer perimeter of nozzle
 
 this is how it looks like when finished with the above steps:
 
@@ -171,7 +231,7 @@ this would be okay (the perimeter should look polished):
 
 
 
-### 1.4 buffer for positioner
+### 2.4 buffer for positioner
 
 i use PTFE tape as buffer. you can also print a TPU one (like the one in r9.3).
 
@@ -190,7 +250,7 @@ i use PTFE tape as buffer. you can also print a TPU one (like the one in r9.3).
 
 
 
-### 1.5 bearing retainer
+### 2.5 bearing retainer
 
 M3x4x5 VORON standard heat inserts set in the FDM printed bearing retainer part. also here are one 608 bearing and two M3x40 SHCS.
 
