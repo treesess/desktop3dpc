@@ -46,9 +46,9 @@ mix design refers to the composite of your mix. i will try list the items i know
 | item     | purpose |
 | -------- |  ------- |
 |water| to hold everything together, the pure the better|
-|OPC (Ordinary Portland Cement) 52.5 N  |major blinder, react with water to build up strength (hydration reaction) |
-|PFA (fly ash)                          |  secondary blinder, helps with crack, makes the slurry less bleeding etc. |
-|GGBS                         |  secondary blinder, get strength somehow faster comparing to adding PFA |
+|OPC (Ordinary Portland Cement) 52.5 N  |major binder, react with water to build up strength (hydration reaction) |
+|PFA (fly ash)                          |  secondary binder, helps with crack, makes the slurry less bleeding etc. |
+|GGBS                         |  secondary binder, get strength somehow faster comparing to adding PFA |
 |sand                     |fine aggregate, imo make it easier to print|
 |stone                 |coarse aggregate, often larger than 5 mm diameter， thus not likely to use on desktop level, unless you are printing something rough with nozzle diameter larger than 10 mm |
 |SP (superplastisizer) or plastisizer (liquid)          | make the slurry better flow with less water   |
