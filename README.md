@@ -2,11 +2,31 @@
 
 desktop scale 3d printing of cement-based/non-Newtonian materials (e.g., cement paste, mortar, concrete) using a vibration unit in the toolhead to make the fluid down from the nozzle. 
 
-## **check out the latest version of build: [here](https://github.com/treesess/desktop3dpc/tree/main/vCP260419%20vcp%20voron%20r9.3)**
+ **check out the latest version of build:**
 
+- [vcp voron, r11, integrated hopper-nozzle design but no hotend, easy assembly, friendly for starters](https://github.com/treesess/desktop3dpc/tree/main/vCP260622%20vcp%20voron%20r11)
+- [vcp voron, r9.3, stable version with hotend, difficult to make and assemble](https://github.com/treesess/desktop3dpc/tree/main/vCP260419%20vcp%20voron%20r9.3)
 
 
 This page is basically a journal, updating the latest works. 
+
+-------
+**260622 update:** 
+
+vcp voron r11 (integrated hopper-nozzle design but no hotend, friendly for starters) has printed 100% size benchy successfully. CAD file has been uploaded. major updates of the design has been documented. 
+
+<img width="941" height="709" alt="image" src="https://github.com/user-attachments/assets/944523c3-cb2b-4367-af42-4b569ef72361" />
+
+cosy ship, huh. well, first time for 100% size benchy, so yeah again, room to improve as always. 
+
+i just came to realize that for a print this small, i should turn off the heat bed and pause every single layer and blow it with heated breeze (i.e., hair blower). haha, it worked. 
+
+and keep blowing heated breeze might also work. but it must have programmed pooping and/or wiping to avoid clogging. to be updated later... not likely to add a part fan on the toolhead but more likely to get it a side fan with heat. 
+
+as i said, water control is the center of desktop cementitious print. and heat is one major way to control the water content in the printed part, no matter via hotend, heat bed, or hot side fans. 
+
+the hotend version is not forgotten. since hotend is a better plan than the hot side fans because the side fans cannot blow the heat INTO the printed part but the hotend can extrude uniformly heated slurry and also better for hydration and strength growth. 
+
 
 
 -------
