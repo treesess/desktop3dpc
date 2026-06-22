@@ -62,7 +62,7 @@ have a better view.
 
 if you want to finish up the surface with epoxy resin, you may use this jig. 
 
-<img width="560" height="421" alt="image" src="https://github.com/user-attachments/assets/4498ea54-d755-4715-acec-c7a8d4e7a923" />
+<img width="538" height="421" alt="image" src="https://github.com/user-attachments/assets/d0d56922-f193-492b-b5d5-7defcf7436e8" />
 
 
 
@@ -268,7 +268,9 @@ screw up the two of M3x40 SHCS:
 ### hypocenter
 
 *to be continued*
+
 *to be continued*
+
 *to be continued*
 
 now it's ready to be installed on vcp voron toolhead. 
